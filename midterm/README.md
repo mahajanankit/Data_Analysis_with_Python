@@ -18,7 +18,8 @@ Analysis 2: Problem: Find out distribution of mail-traffic over time.</br>
     2. Extract the month and year from the date.</br>
     3. Increment the count for each occurence of the particular month and year combination. </br>
     4. Sort the data based on number of emails and picked up the top 25 from them.</br>
-    5. Save the data into a csv file.[Here is Analysis2.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%202.csv)</br>
+    5. Save the data into a csv file.</br>
+    [Here is Analysis2.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%202.csv)</br>
     6. In the graph we get to see top 25 months where the email traffic was maximum.</br>
     [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%202.jpg)</br>
 
@@ -37,7 +38,7 @@ Analysis 3: Problem: Find out top 25 discussed subjects in all the emails.</br>
 
 
 Question 2</br>
-Analysis 1: Problem: Favorite topics over the years. Used ArticleSearch Dataset</br>
+Analysis 1: Problem: Favorite topics over the years. Used ArticleSearch Dataset from 2013-2016</br>
     Steps:</br>
     1. Scan through json files representing data of each year.</br>
     2. Extract pucblication date and section of the article.</br>
@@ -48,7 +49,7 @@ Analysis 1: Problem: Favorite topics over the years. Used ArticleSearch Dataset<
     [Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%202/Analysis%201.csv)</br>
         
     
-Analysis 2: Problem: Find out the most interesting news in NYT articles. Used Archive Dataset</br>
+Analysis 2: Problem: Find out the most interesting news in NYT articles. Used entire Archive Dataset</br>
     Steps:</br>
     1. Scan through each of the artciles in the json.</br>
     2. Extract title and abstract from it.</br>
