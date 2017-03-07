@@ -6,7 +6,8 @@ Analysis 1: Problem: Find out top 15 domains with highest outgoing traffic.</br>
     1. Scan through sent box of every user and pick up the recipients of those emails.</br>
     2. Filter the domain names after '@' in the recipient's email address and add the count corresponding to it</br>
     3. Sort the data and picked up the top 15 from them.</br>
-    4. Save the data into a csv file.[Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%201.csv)</br>
+    4. Save the data into a csv file.</br>
+    [Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%201.csv)</br>
     5. Plot the graph of domain against frequency.
     6. In this graph we get to see top 15 domains which recieved emails from given set of enron users.</br>
     [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%201.jpg)</br>
@@ -28,7 +29,8 @@ Analysis 3: Problem: Find out top 25 discussed subjects in all the emails.</br>
     3. Filter all the words and select only nouns and verbs out of them. 
     4. Increment the count for each occurence of those words. 
     5. Sort subjects based on number of occurences and pick up the top 25 from them.</br>
-    6. Save the data into a csv file.[Here is the Analysis3.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%203.csv)</br>
+    6. Save the data into a csv file.
+    </br>[Here is the Analysis3.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%203.csv)</br>
     7. In the graph we get to see top 25 subjects.</br>
     [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%201/Analysis%203.jpg)</br></br></br></br></br></br>
 
@@ -42,7 +44,8 @@ Analysis 1: Problem: Favorite topics over the years. Used ArticleSearch Dataset<
     3. Create a key-value pair for section-count for every year.</br>
     4. Increment value of a section in the year it was published.
     5. S
-    6. Export the data to a csv.[Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%202/Analysis%201.csv)</br>
+    6. Export the data to a csv.</br>
+    [Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/midterm/Question%202/Analysis%201.csv)</br>
         
     
 Analysis 2: Problem: Find out the most interesting news in NYT articles. Used Archive Dataset</br>
