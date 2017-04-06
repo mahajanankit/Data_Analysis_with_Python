@@ -1,32 +1,20 @@
-
-# coding: utf-8
-
-# # Question2_Part1
-
-# In[35]:
-
 import pandas
 
-
-# In[36]:
-
+#Change this variable for relative path
 rpath="C:/Users/Ankit Mahajan/Desktop/Notes/DataAnalysis4Python_Spring17/Assignments/Assignment 3/data"
 
-
-# In[37]:
-
+#Reading the csv into a dataframe
 fields = ["Organization Group","Department","Total Compensation"]
 df = pandas.read_csv(rpath+"/employee_compensation.csv", sep="," ,usecols=fields)
 
-
-# In[38]:
-
+#Finding mean for every department in every organization
 df = df.groupby(["Organization Group","Department"]).mean()
 
-
-# In[39]:
-
+#Sorting the dataframe based on total compensation in descending order
 df = df.sort_values(by='Total Compensation', ascending=0)
-df.to_csv("./Output/Question2_Part1.csv")
-df.head()
 
+#Exporting to a csv
+df.to_csv("./Output/Question2_Part1.csv")
+
+#Displaying few rows
+df.head()
