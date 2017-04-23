@@ -1,7 +1,7 @@
 # Final Project Spring 2017
 
 ## Data used:
-1 - IRS Tax data from 2008-2014
+1 - IRS Tax data from 2009-2014 </br>
 2 - NYT articles
 
 ## Instructions to download data
