@@ -4,6 +4,13 @@
 1 - IRS Tax data from 2008-2014
 2 - NYT articles
 
+## Instructions to download data
+Get the data from the following link - https://www.irs.gov/uac/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
+get the data for 2008-2014. thefiles would be aggregation files from the link.
+Please place the downloaded files in root/final projet/data/raw data
+
+
+
 ## Analysis 1: Problem: Growth of percapita income of states.</br>
     Steps:</br>
     1. Retrieved prepocessed data and filtered it according to user input.</br>
