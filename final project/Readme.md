@@ -10,7 +10,6 @@ get the data for 2009-2014. thefiles would be aggregation files from the link.
 Please place the downloaded files in root/final projet/data/raw data/IRS/
 
 
-
 Analysis 1: Problem: Growth of percapita income of states.</br>
     Steps:</br>
     1. Retrieved prepocessed data and filtered it according to user input.</br>
@@ -23,6 +22,7 @@ Analysis 1: Problem: Growth of percapita income of states.</br>
     Please find the graph plot here.
 	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis1%20output/graph.png"></br>
 
+	
 Analysis 2: Problem: Analyzing growth of investment in 2014.
     Steps:</br>
     1. Retrieved prepocessed data and filtered it according to user input.</br>
@@ -36,6 +36,7 @@ Analysis 2: Problem: Analyzing growth of investment in 2014.
     [Please find the graph plot here.
 	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis2%20output/growth_graph.png"></br>
 
+	
 Analysis 3: Find out the most inflencing topics on average income using NYT articles. Used entire Archive Dataset.</br>
     Steps:</br>
     1. Retrieved prepocessed data and filtered it according to user input
@@ -44,10 +45,11 @@ Analysis 3: Find out the most inflencing topics on average income using NYT arti
     4. Increment the count for each occurence of those words. 
     5. Sort subjects based on number of occurences. These are the words which have a good relation to the change in america's economy.</br>
     6. Save the data into a csv file.</br>
-	[Here is the csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/analysis.csv)</br>
+	[Here is the csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/reason%20analysis.csv)</br>
     7. In the graph we get to see change in US economy.</br>
     Please find the graph plot here.
 	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/graph.png"></br></br></br></br></br></br>
+
     
 Analysis 4: Problem: Analyzing the wealth of people from different classes of economy.</br>
     Steps:</br>
@@ -60,6 +62,7 @@ Analysis 4: Problem: Analyzing the wealth of people from different classes of ec
     Please find the graph plot here.
 	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis4%20output/graph.png"></br>
 
+	
 Analysis 5: Problem: Unemployment analyzation.</br>
     Steps:</br>
     1. Retrieved prepocessed data and filtered it according to user input.</br>
