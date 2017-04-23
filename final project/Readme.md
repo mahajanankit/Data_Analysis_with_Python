@@ -20,7 +20,8 @@ Analysis 1: Problem: Growth of percapita income of states.</br>
     [Here is Analysis1.csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis1%20output/percapita.csv)</br>
     5. Plot the graph of percapita vs year.
     6. In this graph we get to see different slopes of lines which indicate the rate of growth in the particular state.</br>
-    [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis1%20output/graph.png)</br>
+    Please find the graph plot here.
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis1%20output/graph.png"></br>
 
 Analysis 2: Problem: Analyzing growth of investment in 2014.
     Steps:</br>
@@ -29,9 +30,11 @@ Analysis 2: Problem: Analyzing growth of investment in 2014.
     3. Calculated Investment for every zipcode. </br>
     4. Filtered data to choose the areas where there was a rise in investment.</br>
     5. Plotted a graph to show difference in investment .</br>
-    [Here is the graph](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis2%20output/year_wise_graph.png)</br>
+    Here is the graph
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis2%20output/year_wise_graph.png"></br>
     6. Plotted a zipcode specific rise in investment graph which has a regression line to indicate average growth. Thie area of lighter shade indicates growth.</br>
-    [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis2%20output/growth_graph.png)</br>
+    [Please find the graph plot here.
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis2%20output/growth_graph.png"></br>
 
 Analysis 3: Find out the most inflencing topics on average income using NYT articles. Used entire Archive Dataset.</br>
     Steps:</br>
@@ -44,7 +47,7 @@ Analysis 3: Find out the most inflencing topics on average income using NYT arti
 	[Here is the csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/analysis.csv)</br>
     7. In the graph we get to see change in US economy.</br>
     Please find the graph plot here.
-	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis1%20output/graph.png"></br></br></br></br></br></br>
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/graph.png"></br></br></br></br></br></br>
     
 Analysis 4: Problem: Analyzing the wealth of people from different classes of economy.</br>
     Steps:</br>
@@ -54,7 +57,8 @@ Analysis 4: Problem: Analyzing the wealth of people from different classes of ec
     4. Plotted a graph of average income against time.
     5. This graph helps us to understand that there has been a litlle chnge in all the income classes except for the top class. The class shows great variation.</br>
     6. Plot the graph of word against frequency.</br>
-    [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis4%20output/graph.png)</br>
+    Please find the graph plot here.
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis4%20output/graph.png"></br>
 
 Analysis 5: Problem: Unemployment analyzation.</br>
     Steps:</br>
@@ -62,4 +66,5 @@ Analysis 5: Problem: Unemployment analyzation.</br>
     2. Calulated the unemployment every zip code.</br>
     3. Mapped the unemployement to the county using zipcodes.</br> 
     4. Plotted a geo-map to display unemployment in every county of the state.
-    [Please find the graph plot here.](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis5%20output/map.png)</br>
+    Please find the graph plot here.
+	<img src="https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis5%20output/map.png"></br>
