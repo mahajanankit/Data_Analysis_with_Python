@@ -7,7 +7,7 @@
 ## Instructions to download data
 Get the data from the following link - https://www.irs.gov/uac/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
 get the data for 2009-2014. thefiles would be aggregation files from the link.
-Please place the downloaded files in root/final projet/data/raw data/IRS/
+Please place the downloaded files in: </br>root/final projet/data/raw data/IRS/
 
 
 Analysis 1: Problem: Growth of percapita income of states.</br>
@@ -39,10 +39,10 @@ Analysis 2: Problem: Analyzing growth of investment in 2014.
 	
 Analysis 3: Find out the most inflencing topics on average income using NYT articles. Used entire Archive Dataset.</br>
     Steps:</br>
-    1. Retrieved prepocessed data and filtered it according to user input
+    1. Retrieved prepocessed data and filtered it according to user input</br>
     2. Caulated the change in average income of people.</br>
-    3. Used NYT api to extract data and filter all the words and select only nouns and verbs out of them. 
-    4. Increment the count for each occurence of those words. 
+    3. Used NYT api to extract data and filter all the words and select only nouns and verbs out of them. </br>
+    4. Increment the count for each occurence of those words. </br>
     5. Sort subjects based on number of occurences. These are the words which have a good relation to the change in america's economy.</br>
     6. Save the data into a csv file.</br>
 	[Here is the csv](https://github.com/mahajanankit/mahajan_ankit/blob/master/final%20project/analysis/Analysis3%20output/reason%20analysis.csv)</br>
@@ -56,7 +56,7 @@ Analysis 4: Problem: Analyzing the wealth of people from different classes of ec
     1. Retrieved prepocessed data.</br>
     2. Grouped data according to different classes in it.</br>
     3. Split it according to years.</br> 
-    4. Plotted a graph of average income against time.
+    4. Plotted a graph of average income against time.</br>
     5. This graph helps us to understand that there has been a litlle chnge in all the income classes except for the top class. The class shows great variation.</br>
     6. Plot the graph of word against frequency.</br>
     Please find the graph plot here.
